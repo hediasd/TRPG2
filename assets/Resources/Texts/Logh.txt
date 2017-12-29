@@ -1,0 +1,27 @@
+--- TURN 1 - [Yeti]'s turn - [20/20 HP]
+%%% walks from (9, 3) to (8, 3)
+%%% casts [Zap]
+%%% spell [Zap] damages --- TURN 2 - [Yeti]'s turn - [20/20 HP]
+%%% walks from (11, 3) to (9, 3)
+%%% casts [Zap]
+%%% spell [Zap] damages [Yeti] for 5
+--- TURN 3 - [Tundra Raider]'s turn - [20/20 HP]
+%%% walks from (10, 13) to (9, 13)
+%%% casts [Zap]
+%%% spell [Zap] damages --- TURN 4 - [Yeti]'s turn - [20/20 HP]
+%%% walks from (11, 1) to (11, 3)
+%%% casts [Zap]
+%%% spell [Zap] damages [Yeti] for 5
+--- TURN 5 - [Tundra Raider]'s turn - [20/20 HP]
+%%% walks from (10, 11) to (9, 11)
+%%% casts [Zap]
+%%% spell [Zap] damages --- TURN 6 - [Yeti]'s turn - [15/20 HP]
+%%% walks from (8, 3) to (7, 3)
+%%% casts [Zap]
+%%% spell [Zap] damages --- TURN 7 - [Yeti]'s turn - [15/20 HP]
+%%% walks from (9, 3) to (8, 3)
+%%% casts [Zap]
+%%% spell [Zap] damages [Yeti] for 5
+--- TURN 8 - [Tundra Raider]'s turn - [20/20 HP]
+%%% walks from (9, 13) to (8, 13)
+

@@ -1,0 +1,154 @@
+{
+    "Items": [
+        {
+            "name": "Asmodeus",
+            "texture": "Nogg",
+            "StatusNames": [],
+            "Spells": "Fire Wall, Evil Claw",
+            "Passives": "",
+            "Stats": "",
+            "PaletteA": "250, 250, 250",
+            "PaletteB": "250, 250, 250"
+        },
+        {
+            "name": "Beast of Revelation",
+            "texture": "DV_10",
+            "StatusNames": [],
+            "Spells": "Zap",
+            "Passives": "",
+            "Stats": "",
+            "PaletteA": "250, 250, 250",
+            "PaletteB": "250, 250, 250"
+        },
+        {
+            "name": "Betrayed Knight",
+            "texture": "DV_09",
+            "StatusNames": [],
+            "Spells": "Evil Claw",
+            "Passives": "",
+            "Stats": "",
+            "PaletteA": "250, 250, 250",
+            "PaletteB": "150, 150, 250"
+        },
+        {
+            "name": "Blood Priest",
+            "texture": "CH_04",
+            "StatusNames": [],
+            "Spells": "Zap",
+            "Passives": "",
+            "Stats": "",
+            "PaletteA": "250, 220, 140",
+            "PaletteB": "240, 40, 40"
+        },
+        {
+            "name": "Blood Templar",
+            "texture": "DV_08",
+            "StatusNames": [],
+            "Spells": "",
+            "Passives": "",
+            "Stats": "",
+            "PaletteA": "250, 250, 250",
+            "PaletteB": "250, 20, 20"
+        },
+        {
+            "name": "Bosk Mage",
+            "texture": "PL_02",
+            "StatusNames": [],
+            "Spells": "Evil Claw",
+            "Passives": "",
+            "Stats": "",
+            "PaletteA": "154, 22, 91",
+            "PaletteB": "228, 207, 91"
+        },
+        {
+            "name": "Callalily",
+            "texture": "PL_01",
+            "StatusNames": [],
+            "Spells": "Zap",
+            "Passives": "",
+            "Stats": "",
+            "PaletteA": "250, 250, 250",
+            "PaletteB": "165, 70, 250"
+        },
+        {
+            "name": "Deity of Thirst",
+            "texture": "WA_05",
+            "StatusNames": [],
+            "Spells": "Evil Claw",
+            "Passives": "",
+            "Stats": "",
+            "PaletteA": "250, 250, 250",
+            "PaletteB": "130, 80, 250"
+        },
+        {
+            "name": "Graveyard Warden",
+            "texture": "ZM_07",
+            "StatusNames": [],
+            "Spells": "",
+            "Passives": "",
+            "Stats": "",
+            "PaletteA": "70, 50, 30",
+            "PaletteB": "200, 200, 130"
+        },
+        {
+            "name": "Guide of Lost",
+            "texture": "ZM_03",
+            "StatusNames": [],
+            "Spells": "Evil Claw, Fire Wall",
+            "Passives": "",
+            "Stats": "",
+            "PaletteA": "250, 250, 230",
+            "PaletteB": "70, 70, 160"
+        },
+        {
+            "name": "Mud Golem",
+            "texture": "DV_11",
+            "StatusNames": [],
+            "Spells": "Evil Claw",
+            "Passives": "",
+            "Stats": "",
+            "PaletteA": "250, 250, 250",
+            "PaletteB": "130, 130, 250"
+        },
+        {
+            "name": "Polar Gargoyle",
+            "texture": "DV_06",
+            "StatusNames": [],
+            "Spells": "",
+            "Passives": "",
+            "Stats": "",
+            "PaletteA": "60, 200, 230",
+            "PaletteB": "250, 250, 230"
+        },
+        {
+            "name": "Prophet of Wicked",
+            "texture": "WA_16",
+            "StatusNames": [],
+            "Spells": "Evil Claw",
+            "Passives": "",
+            "Stats": "",
+            "PaletteA": "190, 30, 30",
+            "PaletteB": "250, 250, 230"
+        },
+        {
+            "name": "Shold",
+            "texture": "SL_10",
+            "StatusNames": [],
+            "Spells": "",
+            "Passives": "",
+            "Stats": "",
+            "PaletteA": "250, 250, 250",
+            "PaletteB": "130, 240, 130"
+        },
+        {
+            "name": "Yatagarasu",
+            "texture": "BR_08",
+            "StatusNames": [],
+            "Spells": "Evil Claw",
+            "Passives": "",
+            "Stats": "",
+            "PaletteA": "230, 250, 230",
+            "PaletteB": "130, 0, 130"
+        }
+    ]
+}

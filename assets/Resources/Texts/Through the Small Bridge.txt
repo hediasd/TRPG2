@@ -1,0 +1,90 @@
+Consolas Breathstealer's Crypt 
+
+
+
+LoS 		(Default: not)
+BoostableRange 	(Default: not)
+Linear		(Default: not)
+CastRange_X
+EffectRadius_X
+EffectSquare / EffectCone / EffectRound / EffectLine / Effect3Line (Default: EffectCircle)
+Self / Allies / Enemies / Both / None / All
+
+Ground: Flame damage end turn, spikes on pass, fog, 
+
+//
+
+I Stand Enobled
+All shall be one with me
+All There is to It
+My Way is Truly That of Heaven
+She Sleeps Most of the Time
+Forty Days and Forty Nights
+Disco All Around You
+Skee
+Gatekeeping
+
+Palace Prelude
+Resistant World
+Miracle Loader
+Wide Disgrace
+Constant Blessing / Constantly Blessed
+Arc High Voltage
+Funeral Mist
+Light That Burns the Sky
+Falling Catacombs (DARK/EARTH)
+End of Time - Turn skip
+Region Locked
+Tropic Thermae - EARTH/FIRE/WOOD Counters all AOEs
+Fog Harvesting
+Fog Gathering
+Heaven Promised
+
+Eternity - fire passive, constant heals and revive
+Secret Night - all darkness-users gain bonus turn
+Early Spring -
+River Mist -
+Blizzard Blitz -
+Soteriology - study of salvation
+God Tree -
+Top of the Morning -
+Gateway to Glimmer -
+Portal of Schlagl -
+
+
+At the Highest Level Possible
+Against All Odds
+Back Storm
+Before It Kicks
+Blackout Tendencies
+Blazing Veins
+Casebook of Luck
+Cheating Back At You
+Conclave Chorus - heals allies, deals 3x3 damage on healed
+Cooling Towers
+Cronyism -  practice of partiality in awarding advantages to friends
+Crown of Twelve Stars
+Epitome of Power
+Fast Recovery
+Fastest Recovery
+Fitful Nightmares
+Flown Up
+Heat Dragon
+Honored Pillars Festival
+Holy War
+Honeypot
+Legal Plunder - steal
+Our Most Loved Star
+Peach Tree Legend
+Salt Marshes
+Sky of Perception
+Slush Fund - ?
+Speech on Spilled Wine
+Spring Cleaning
+Spring Swaps Snow for Leaves
+Street Fight - 1 range, high crit
+Sylph Storm
+Windscale Pileup
+Winter Evenings by the Fire
+Worms Armageddon
+
